@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aj2K23
 - 👀 I’m interested in game dev, 3d modeling
-- 🌱 I’m currently learning godot 4 
+- 🌱 I’m currently learning unity 6
 - 📫 How to reach me ...X @anandjobby
 
 <!---
